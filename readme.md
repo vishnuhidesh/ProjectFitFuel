@@ -24,7 +24,7 @@ To deploy FitFuel, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/FitFuel.git
+   git clone https://github.com/vishnuhidesh/ProjectFitFuel.git
    cd FitFuel
    ```
 
