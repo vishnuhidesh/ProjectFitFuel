@@ -50,15 +50,15 @@ To deploy FitFuel, follow these steps:
 
 - **Vishnu Hidesh (Frontend):**
   - Email: vishnuhideshnt@gmail.com
-  - GitHub: [vishnuhidesh](https://github.com/vishnuhidesh)
+  - GitHub: [Vishnu Hidesh](https://github.com/vishnuhidesh)
 
 - **Sharun T N (Backend):**
   - Email: sharuntn5@gmail.com
-  - GitHub: [sharuntn](https://github.com/sharuntn)
+  - GitHub: [Sharun T N](https://github.com/sharuntn)
 
 - **Amith E K (AI/ML/DL):**
   - Email: amith7025@gmail.com
-  - GitHub: [amith-ek](https://github.com/amith7025)
+  - GitHub: [Amith E K](https://github.com/amith7025)
 
 ## Contribution Guidelines
 
