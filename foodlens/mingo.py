@@ -52,16 +52,44 @@ from PIL import Image
 def prediction(text:str):
 
     labels = {
-    0: 'vada pav',
-    1: 'tandoori chicken',
-    2: 'idly',
-    3: 'meduvadai',
-    4: 'samosa',
-    5: 'kathi roll',
-    6: 'halwa',
-    7: 'biriyani',
-    8: 'gulab jamun',
-    9: 'dosa'
+    0: {
+        10:'Vada Pav',
+        20:'1 Vada & Pav ~ 130g (290cal)'
+        },
+    1: {
+        10:'Tandoori Chicken',
+        20:'Quarter Piece ~ 200g (265cal)'
+        },
+    2: {
+        10:'Idli',
+        20:'1 Idli ~ 40g (58cal)'
+        },
+    3: {
+        10:'Uzhunnu Vada',
+        20:'1 Vada ~ 70g (97cal)'
+        },
+    4: {
+        10:'Samosa',
+        20:'1 Samosa ~ 40g (175cal)'
+        },
+    5: {
+        10:'Kathi Roll',
+        20:'1 Roll ~ 200g (415cal)'
+        },
+    6: {
+        10:'Halwa',
+        20:' ~ 100g (470cal)'
+        },
+    7: {
+        10 : 'Biriyani', 
+        20 : '1 Plate ~ 300gms (600cal)'
+        },
+    8: {
+        10:'Gulab Jamun',
+        20:'1 Piece + 1 tbsp syrup ~ 50g (140cal)'},
+    9: {
+        10:'Dosa',
+        20:'1 Dosa ~ 40g (94cal)'}
     }
 
 
