@@ -30,6 +30,8 @@ To deploy FitFuel, follow these steps:
 
 2. **Setup Django:**
    - Ensure necessary dependencies are installed.
+   ```pip install -r requirements.txt```
+
 
 3. **Configure Database:**
    - Set up a PostgreSQL database and update backend configurations accordingly.
