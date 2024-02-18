@@ -54,7 +54,8 @@ def prediction(text:str):
     labels = {
     0: {
         10:'Vada Pav',
-        20:'1 Vada & Pav ~ 130g (290cal)'
+        20:'1 Vada & Pav ~ 130g (290cal)',
+        30 : 290
         },
     1: {
         10:'Tandoori Chicken',
